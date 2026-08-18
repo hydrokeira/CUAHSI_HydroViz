@@ -1,3 +1,31 @@
+---
+title: "Activity 1: Using Stream Hydrographs to Infer Subsurface Properties"
+date: 2026-08-18
+authors:
+  - id: hydrokeira
+    name: Keira Johnson
+    email: keira.johnson@colorado.edu
+    github: hydrokeira
+    orcid: 0000-0003-0671-3901
+    corresponding: true
+    url: ??
+    affiliations:
+      - cires ??
+affiliations:
+  - id: cires
+    name: Cooperative Institute for Research in Environmental Sciences
+    url: https://cires.colorado.edu/
+subject: Courseware
+doi: ??
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
+github: 
+downloads:
+  - file: Activity1.md
+  - file: Activity1.pdf
+---
+
 # Activity 1: Using Stream Hydrographs to Infer Subsurface Properties
 ## Introduction
 Streams respond differently to rainfall and snowmelt depending on climate, landscape characteristics, and how water is stored and transported in the subsurface. In rain-dominated watersheds (e.g., watersheds where most of the precipitation falls as rain), precipitation often reaches streams quickly, producing rapid increases in streamflow during storms. In contrast, snow-dominated watersheds (e.g., watersheds where most of the precipitation falls as snow) store water seasonally in snowpack and release it gradually during spring melt, often resulting in smoother streamflow patterns. Hydrologists use hydrographs - which describe the amount of water in a stream over time (Figure 1) - to understand how streamflow varies through time and respond to incoming precipitation. However, hydrographs also provide a window into watershed processes that control the storage and transport of precipitation that are difficult to observe directly, such as groundwater storage and subsurface flow paths.
