@@ -20,7 +20,7 @@ doi: ??
 venue:
   title: View Resource on HydroShare
   url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
-github: 
+github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity1
 downloads:
   - file: Activity1.md
   - file: Activity1.pdf
