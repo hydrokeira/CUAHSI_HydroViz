@@ -1,3 +1,30 @@
+---
+title: "Activity 3: Exploring Concentration–Discharge (C – Q) Relationships"
+date: 2026-08-18
+authors:
+  - id: hydrokeira
+    name: Keira Johnson
+    email: keira.johnson@colorado.edu
+    github: hydrokeira
+    orcid: 0000-0003-0671-3901
+    corresponding: true
+    affiliations:
+      - cires
+affiliations:
+  - id: cires
+    name: Cooperative Institute for Research in Environmental Sciences
+    url: https://cires.colorado.edu/
+subject: Courseware
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
+github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity3
+downloads:
+  - file: Activity3.md
+  - file: Activity3.pdf
+edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity3/Activity3.md
+---
+
 # Activity 3: Exploring Concentration–Discharge (C – Q) Relationships
 ## Introduction
 Streams carry dissolved solutes that reflect the movement of water through soils, groundwater, vegetation, and human-altered landscapes. Hydrologists often study the relationship between stream solute concentrations (C) and discharge (Q), known as C–Q relationships, to understand how solutes are stored, mobilized, and transported within watersheds. By examining stream chemistry with respect to streamflow, scientists can infer where solutes originate, how long water remains in the subsurface, and the hydrologic pathways that connect landscapes to streams. 
