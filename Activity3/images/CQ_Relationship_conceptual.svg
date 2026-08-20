@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 370.97 252.09">
+  <!-- Generator: Adobe Illustrator 30.6.0, SVG Export Plug-In . SVG Version: 2.1.4 Build 109)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #2b3990;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+      }
+
+      .st0, .st5, .st3, .st4 {
+        font-size: 16px;
+      }
+
+      .st6 {
+        stroke: #231f20;
+      }
+
+      .st6, .st7, .st8, .st9 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .st7 {
+        stroke: #2b3990;
+      }
+
+      .st7, .st8, .st9 {
+        stroke-width: 2px;
+      }
+
+      .st2 {
+        font-size: 18px;
+      }
+
+      .st2, .st5 {
+        fill: #231f20;
+      }
+
+      .st8 {
+        stroke: #be1e2d;
+      }
+
+      .st10 {
+        font-family: MyriadPro-Bold, 'Myriad Pro';
+        font-weight: 700;
+      }
+
+      .st9 {
+        stroke: #bebebe;
+      }
+
+      .st3 {
+        fill: #be1e2d;
+      }
+
+      .st4 {
+        fill: #8a8b8c;
+      }
+    </style>
+  </defs>
+  <polyline class="st6" points="24.63 0 24.63 226.43 266.6 226.43"/>
+  <line class="st9" x1="41.98" y1="112.96" x2="276.33" y2="112.96"/>
+  <line class="st8" x1="46.38" y1="190.91" x2="284.97" y2="90.58"/>
+  <line class="st7" x1="41.98" y1="66.89" x2="266.6" y2="172.46"/>
+  <text class="st2" transform="translate(15.07 129.66) rotate(-89.7)"><tspan x="0" y="0">Log (Q)</tspan></text>
+  <text class="st0" transform="translate(188.32 178.58)"><tspan x="0" y="0">diluting</tspan><tspan x="0" y="19.2">b &lt; -0.1</tspan></text>
+  <text class="st3" transform="translate(198.96 71.2)"><tspan x="0" y="0">mobilizing</tspan><tspan x="0" y="19.2">b &gt; 0.1</tspan></text>
+  <text class="st4" transform="translate(32.71 127.69)"><tspan x="0" y="0">chemostatic</tspan><tspan x="0" y="19.2">-0.1 &lt; b &lt; 0.1</tspan></text>
+  <text class="st2" transform="translate(130.63 247.32) rotate(.3)"><tspan x="0" y="0">Log (C)</tspan></text>
+  <text class="st5" transform="translate(41.98 24.54)"><tspan class="st1" x="0" y="0">log(C) = log(a) + </tspan><tspan class="st10" x="110.81" y="0">b</tspan><tspan class="st1" x="120.38" y="0">[log(Q)]</tspan></text>
+</svg>
