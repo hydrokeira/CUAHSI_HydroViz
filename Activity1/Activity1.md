@@ -8,7 +8,6 @@ authors:
     github: hydrokeira
     orcid: 0000-0003-0671-3901
     corresponding: true
-    url: ??
     affiliations:
       - cires
 affiliations:
@@ -19,10 +18,11 @@ subject: Courseware
 venue:
   title: View Resource on HydroShare
   url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
-github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity1.md
+github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity1
 downloads:
   - file: Activity1.md
   - file: Activity1.pdf
+edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity1/Activity1.md
 ---
 
 # Activity 1: Using Stream Hydrographs to Infer Subsurface Properties
