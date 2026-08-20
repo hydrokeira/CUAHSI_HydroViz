@@ -1,5 +1,5 @@
 ---
-title: HydroViz: Exploring Water Data 
+title: "HydroViz: Exploring Water Data" 
 subtitle: Data synthesis based activities for teaching common hydrologic concepts
 date: 2026-08-20
 github: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/README
