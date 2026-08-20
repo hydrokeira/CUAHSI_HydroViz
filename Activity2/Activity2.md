@@ -1,3 +1,30 @@
+---
+title: "Activity 2: Spatial and Seasonal Patterns of Stream Chloride"
+date: 2026-08-18
+authors:
+  - id: hydrokeira
+    name: Keira Johnson
+    email: keira.johnson@colorado.edu
+    github: hydrokeira
+    orcid: 0000-0003-0671-3901
+    corresponding: true
+    affiliations:
+      - cires
+affiliations:
+  - id: cires
+    name: Cooperative Institute for Research in Environmental Sciences
+    url: https://cires.colorado.edu/
+subject: Courseware
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
+github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity2
+downloads:
+  - file: Activity2.md
+  - file: Activity2.pdf
+edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity2/Activity2.md
+---
+
 # Activity 2: Spatial and Seasonal Patterns of Stream Chloride
 ## Introduction
 Streams naturally contain dissolved salts and minerals that originate from rocks, soils, groundwater, precipitation, and human activities. One of the most commonly measured dissolved ions in freshwater systems is chloride (Cl), which serves as an important indicator of watershed processes and human influence on water quality. Chloride enters streams through natural atmospheric deposition, and in some environments weathering processes - such as those underlain by evaporite bedrock - but elevated concentrations are often linked to road salt application, agricultural runoff, wastewater discharge, and urban development. Because chloride is highly soluble and does not readily react or precipitate in most freshwater systems, it can move efficiently through watersheds and provide insight into how water and dissolved materials are transported across landscapes.
