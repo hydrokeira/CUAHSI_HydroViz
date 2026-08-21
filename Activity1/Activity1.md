@@ -46,6 +46,8 @@ From http://shiny.ceoas.oregonstate.edu/hydro-modules/, navigate to the Activity
 
 ![HydroViz App Activity 1](../images/hydroviz_app_activity1.png)
 
+*Figure 2: Snapshot of the Precipitation & Snow Cover tab (Activity 1) from the HydroViz interface.*
+
 ### Questions
 
 1. The plot on the Precipitation & Snow Cover tab displays mean annual precipitation vs average snow cover. Each point is a watershed. The horizontal dashed line at 25% average snow cover and differentiates snow dominated watersheds ( > 25% snow cover) from rain dominated (< 25%) watersheds. Describe the relationship between annual precipitation and average snow cover. What does this tell you about water availability in snow dominated vs rain dominated watersheds?

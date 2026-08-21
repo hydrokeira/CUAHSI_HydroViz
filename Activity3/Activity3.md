@@ -49,6 +49,8 @@ From http://shiny.ceoas.oregonstate.edu/hydro-modules/, navigate to the Activity
 
 ![HydroViz App Activity 3](../images/hydroviz_app_activity3.png)
 
+*Figure 2: Snapshot of the Site Map tab (Activity 3) from the HydroViz interface.*
+
 
 ### Questions
 

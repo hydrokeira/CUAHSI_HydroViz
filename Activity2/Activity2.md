@@ -41,6 +41,8 @@ From http://shiny.ceoas.oregonstate.edu/hydro-modules/, navigate to the Activity
 
 ![HydroViz App Activity 2](../images/hydroviz_app_activity2.png)
 
+*Figure 2: Snapshot of the Chloride Map tab (Activity 2) from the HydroViz interface.*
+
 ### Questions
 
 1. The map on the Chloride Map tab displays average chloride concentrations measured at stream monitoring sites across North America.. You can hover over a point to see its name and average Cl concentration. Describe the geographic distribution of chloride concentrations across the map. Are there regions where concentrations appear consistently higher or lower? What are some hypotheses that could explain these patterns?
