@@ -14,15 +14,15 @@ affiliations:
   - id: cires
     name: Cooperative Institute for Research in Environmental Sciences
     url: https://cires.colorado.edu/
-subject: Courseware
+subject: Workshops
 venue:
   title: View Resource on HydroShare
   url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
 github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity3
+edit_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity3/Activity3.md
 downloads:
   - file: Activity3.md
   - file: Activity3.pdf
-edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity3/Activity3.md
 ---
 
 # Activity 3: Exploring Concentration–Discharge (C – Q) Relationships

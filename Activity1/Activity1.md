@@ -14,15 +14,15 @@ affiliations:
   - id: cires
     name: Cooperative Institute for Research in Environmental Sciences
     url: https://cires.colorado.edu/
-subject: Courseware
+subject: Workshops
 venue:
   title: View Resource on HydroShare
   url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
 github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity1
+edit_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity1/Activity1.md
 downloads:
   - file: Activity1.md
   - file: Activity1.pdf
-edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity1/Activity1.md
 ---
 
 # Activity 1: Using Stream Hydrographs to Infer Subsurface Properties
