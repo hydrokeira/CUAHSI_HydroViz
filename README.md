@@ -2,6 +2,10 @@
 title: "HydroViz: Exploring Water Data" 
 subtitle: Data synthesis based activities for teaching common hydrologic concepts
 date: 2026-08-20
+subject: Workshops
+venue:
+  title: View Resource on HydroShare
+  url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
 github: https://github.com/hydrokeira/CUAHSI_HydroViz
 edit_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/README.md
 author:
