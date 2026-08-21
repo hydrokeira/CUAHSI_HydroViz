@@ -2,7 +2,7 @@
 title: "HydroViz: Exploring Water Data" 
 subtitle: Data synthesis based activities for teaching common hydrologic concepts
 date: 2026-08-20
-github: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/README
+github: https://github.com/hydrokeira/CUAHSI_HydroViz
 edit_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/README.md
 author:
   - name: Keira Johnson
