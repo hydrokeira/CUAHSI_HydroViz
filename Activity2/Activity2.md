@@ -36,10 +36,10 @@ Understanding chloride dynamics has important real-world implications for water 
 2. Evaluate temporal patterns of stream chloride and hypothesize how hydrologic and land use processes influence seasonal variation in salinity.
 
 ## Activity
-### Overview
-Link to the application: http://shiny.ceoas.oregonstate.edu/hydro-modules/
 
-Launch the HydroViz Shiny App using the link above. The application may take a few moments to load while the server initializes; this is expected behavior. Across the top of the interface are five tabs: Overview, Activity 1, Activity 2, Activity 3, and About. Begin by opening the Overview tab. This page displays a map of the stream monitoring sites that will be analyzed throughout the module. Spend a few minutes familiarizing yourself with the Overview interface and the distribution of sites across North America. The appearance of the map can be modified using the Map Controls panel on the left side of the screen. Clicking on an individual site will display information about the watershed draining to that stream gauge. Descriptions of the watershed metrics and variables are provided in the Key Metrics panel on the right side of the interface. After exploring the overview map and becoming familiar with the controls, navigate to the Activity 2: Mapping Stream Salinity tab to begin the first activity. This activity page consists of two tabs: Chloride Map and Seasonal Cl & Discharge. Begin on the Chloride Map tab.
+From http://shiny.ceoas.oregonstate.edu/hydro-modules/, navigate to the Activity 2: Mapping Stream Salinity tab to begin the second activity. This activity page consists of two tabs: Chloride Map and Seasonal Cl & Discharge. Begin on the Chloride Map tab.
+
+![HydroViz App Activity 2](../images/hydroviz_app_activity2.png)
 
 ### Questions
 

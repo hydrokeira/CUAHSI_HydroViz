@@ -41,10 +41,10 @@ Understanding hydrograph behavior has important real-world applications in water
 2. Relate quantitative hydrograph metrics to subsurface storage and streamflow generation processes.	
 
 ## Activity
-### Overview
-Link to the application: http://shiny.ceoas.oregonstate.edu/hydro-modules/
 
-Launch the HydroViz Shiny App. The application may take a few moments to load while the server initializes; this is expected behavior. Across the top of the interface are five tabs: Overview, Activity 1, Activity 2, Activity 3, and About. Begin by opening the Overview tab. This page displays a map of the stream monitoring sites that will be analyzed throughout the module. Spend a few minutes familiarizing yourself with the Overview interface and the distribution of sites across North America. The appearance of the map can be modified using the Map Controls panel on the left side of the screen. Clicking on an individual site will display information about the watershed draining to that stream gauge. Descriptions of the watershed metrics and variables are provided in the Key Metrics panel on the right side of the interface. After exploring the overview map and becoming familiar with the controls, navigate to the Activity 1: Hydrographs & Subsurface tab to begin the first activity. This activity page consists of three tabs: Precipitation & Snow Cover, Average Hydrograph, and RCS vs RBI. Begin on the Precipitation & Snow Cover tab.
+From http://shiny.ceoas.oregonstate.edu/hydro-modules/, navigate to the Activity 1: Hydrographs & Subsurface tab to begin the first activity. This activity page consists of three tabs: Precipitation & Snow Cover, Average Hydrograph, and RCS vs RBI. Begin on the Precipitation & Snow Cover tab.
+
+![HydroViz App Activity 1](../images/hydroviz_app_activity1.png)
 
 ### Questions
 
