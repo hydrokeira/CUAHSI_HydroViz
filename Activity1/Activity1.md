@@ -14,15 +14,15 @@ affiliations:
   - id: cires
     name: Cooperative Institute for Research in Environmental Sciences
     url: https://cires.colorado.edu/
-subject: Courseware
+subject: Workshops
 venue:
   title: View Resource on HydroShare
   url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
 github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity1
+edit_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity1/Activity1.md
 downloads:
   - file: Activity1.md
   - file: Activity1.pdf
-edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity1/Activity1.md
 ---
 
 # Activity 1: Using Stream Hydrographs to Infer Subsurface Properties
@@ -30,7 +30,7 @@ edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity1
 Streams respond differently to rainfall and snowmelt depending on climate, landscape characteristics, and how water is stored and transported in the subsurface. In rain-dominated watersheds (e.g., watersheds where most of the precipitation falls as rain), precipitation often reaches streams quickly, producing rapid increases in streamflow during storms. In contrast, snow-dominated watersheds (e.g., watersheds where most of the precipitation falls as snow) store water seasonally in snowpack and release it gradually during spring melt, often resulting in smoother streamflow patterns. Hydrologists use hydrographs - which describe the amount of water in a stream over time (Figure 1) - to understand how streamflow varies through time and respond to incoming precipitation. However, hydrographs also provide a window into watershed processes that control the storage and transport of precipitation that are difficult to observe directly, such as groundwater storage and subsurface flow paths.
 One commonly used hydrograph metric that provides insight into subsurface water storage and transport is the Richards-Baker Flashiness Index (RBI). RBI describes how rapidly streamflow changes through time; flashy streams (e.g., high values of RBI) respond quickly to storms and often indicate rapid runoff generation, suggesting limited storage capacity. Streams with low RBI values exhibit more stable flow and are less responsive to incoming precipitation, suggesting higher storage capacity resulting in buffering of streamflow response. By comparing RBI metrics across watersheds with different precipitation regimes, we can begin linking streamflow behavior to underlying hydrologic processes (Figure 1).
 
-![image](images/conceptual_figrue_gpt_AI.svg)
+![image](../images/conceptual_figrue_gpt_AI.svg)
 
 *Figure 1: Conceptual figure of hydrograph response for snow vs rain dominated watershed. Graphics created using ChatGPT.*
 
@@ -41,10 +41,12 @@ Understanding hydrograph behavior has important real-world applications in water
 2. Relate quantitative hydrograph metrics to subsurface storage and streamflow generation processes.	
 
 ## Activity
-### Overview
-Link to the application: http://shiny.ceoas.oregonstate.edu/hydro-modules/
 
-Launch the HydroViz Shiny App. The application may take a few moments to load while the server initializes; this is expected behavior. Across the top of the interface are five tabs: Overview, Activity 1, Activity 2, Activity 3, and About. Begin by opening the Overview tab. This page displays a map of the stream monitoring sites that will be analyzed throughout the module. Spend a few minutes familiarizing yourself with the Overview interface and the distribution of sites across North America. The appearance of the map can be modified using the Map Controls panel on the left side of the screen. Clicking on an individual site will display information about the watershed draining to that stream gauge. Descriptions of the watershed metrics and variables are provided in the Key Metrics panel on the right side of the interface. After exploring the overview map and becoming familiar with the controls, navigate to the Activity 1: Hydrographs & Subsurface tab to begin the first activity. This activity page consists of three tabs: Precipitation & Snow Cover, Average Hydrograph, and RCS vs RBI. Begin on the Precipitation & Snow Cover tab.
+From http://shiny.ceoas.oregonstate.edu/hydro-modules/, navigate to the Activity 1: Hydrographs & Subsurface tab to begin the first activity. This activity page consists of three tabs: Precipitation & Snow Cover, Average Hydrograph, and RCS vs RBI. Begin on the Precipitation & Snow Cover tab.
+
+![HydroViz App Activity 1](../images/hydroviz_app_activity1.png)
+
+*Figure 2: Snapshot of the Precipitation & Snow Cover tab (Activity 1) from the HydroViz interface.*
 
 ### Questions
 

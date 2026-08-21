@@ -14,22 +14,24 @@ affiliations:
   - id: cires
     name: Cooperative Institute for Research in Environmental Sciences
     url: https://cires.colorado.edu/
-subject: Courseware
+subject: Workshops
 venue:
   title: View Resource on HydroShare
   url: https://hydroshare.org/resource/8e1b3c85b48c4e10a29969f104971195/
 github: https://github.com/hydrokeira/CUAHSI_HydroViz/tree/main/Activity3
+edit_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity3/Activity3.md
 downloads:
   - file: Activity3.md
   - file: Activity3.pdf
-edit_page_url: https://github.com/hydrokeira/CUAHSI_HydroViz/edit/main/Activity3/Activity3.md
 ---
 
 # Activity 3: Exploring Concentration–Discharge (C – Q) Relationships
 ## Introduction
 Streams carry dissolved solutes that reflect the movement of water through soils, groundwater, vegetation, and human-altered landscapes. Hydrologists often study the relationship between stream solute concentrations (C) and discharge (Q), known as C–Q relationships, to understand how solutes are stored, mobilized, and transported within watersheds. By examining stream chemistry with respect to streamflow, scientists can infer where solutes originate, how long water remains in the subsurface, and the hydrologic pathways that connect landscapes to streams. 
 Concentration-discharge relationships are quantified using the slope of a log(C)–log(Q) regression, which describes how strongly concentration changes as discharge changes (Figure 1). Stream discharge and concentration often span several orders of magnitude; log scales allow us to visualize both small and large values simultaneously and linearize power-law C-Q relationships. We use the slope of this relationship, b, to interpret the relationship between C and Q. In addition, the coefficient of determination (R2) describes how strongly concentration and discharge are related. Larger R2 values indicate that changes in discharge explain a greater proportion of the variation in concentration. 
-![image](images/CQ_Relationship_conceptual.svg)
+
+![image](../images/CQ_Relationship_conceptual.svg)
+
 *Figure 1: Conceptual model of C-Q relationships.*
 
 C–Q relationships are classified into three broad categories based on their slope: diluting, chemostatic, and mobilizing. A diluting relationship has a negative slope (b < -0.1), meaning concentrations decrease as discharge increases. This pattern occurs when streamflow during storms or snowmelt is dominated by dilute water sources, such as precipitation or snowmelt, reducing the concentration of the solute in the stream. A chemostatic relationship has a slope near zero (-0.1 < b < 0.1), meaning concentrations remain relatively constant across a wide range of streamflows. Chemostatic behavior suggests that solute sources are abundant and well mixed within the watershed, allowing streams to maintain similar concentrations even as flow changes. In contrast, a mobilizing relationship has a positive slope (b > 0.1), meaning concentrations increase with increasing discharge. Mobilizing behavior often indicates that storms or high flows activate additional solute sources from shallow subsurface or surface runoff pathways. Comparing both the sign and magnitude of C–Q slopes allows us to infer how strongly watershed transport processes respond to hydrologic events.
@@ -42,10 +44,13 @@ Different solutes exhibit different C–Q behavior depending on their chemical p
 
 
 ## Activity
-### Overview
-Link to the application: http://shiny.ceoas.oregonstate.edu/hydro-modules/
 
-Launch the HydroViz Shiny App using the link above. The application may take a few moments to load while the server initializes; this is expected behavior. Across the top of the interface are five tabs: Overview, Activity 1, Activity 2, Activity 3, and About. Begin by opening the Overview tab. This page displays a map of the stream monitoring sites that will be analyzed throughout the module. Spend a few minutes familiarizing yourself with the Overview interface and the distribution of sites across North America. The appearance of the map can be modified using the Map Controls panel on the left side of the screen. Clicking on an individual site will display information about the watershed draining to that stream gauge. Descriptions of the watershed metrics and variables are provided in the Key Metrics panel on the right side of the interface. After exploring the overview map and becoming familiar with the controls, navigate to the Activity 3: Exploring C-Q Relationships tab to begin the first activity. This activity page consists of four tabs: Site Map, Average Seasonal Hydrograph, C-Q Relationships, and C-Q Slope Distribution. Begin on the Site Map tab.
+From http://shiny.ceoas.oregonstate.edu/hydro-modules/, navigate to the Activity 3: Exploring C-Q Relationships tab to begin the third activity. This activity page consists of four tabs: Site Map, Average Seasonal Hydrograph, C-Q Relationships, and C-Q Slope Distribution. Begin on the Site Map tab.
+
+![HydroViz App Activity 3](../images/hydroviz_app_activity3.png)
+
+*Figure 2: Snapshot of the Site Map tab (Activity 3) from the HydroViz interface.*
+
 
 ### Questions
 
